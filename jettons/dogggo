@@ -1,0 +1,11 @@
+name: Dog Card
+description: Relive your childhood with the first trading card game on TON Blockchain!
+image: "https://pbs.twimg.com/profile_images/1887092746126831616/DazK7JTB_400x400.jpg"
+address: EQAzpbLmiXWJ0xtYpUjAHfKfoupoZKbWQc25T37M78oChxpI
+symbol: DOGGO
+decimals: 9
+websites:
+  - "https://dogc.fun"
+social:
+  - "https://t.me/DogCardAnnouncement"
+  - "https://x.com/dogcard_gamefi"
